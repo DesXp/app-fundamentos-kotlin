@@ -1,0 +1,4 @@
+package pe.edu.cibertec.app_fundamentos_kotlin.funciones
+
+class Administrativo {
+}

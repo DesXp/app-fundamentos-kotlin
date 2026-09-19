@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app-fundamentos-kotlin</string>
+    <string name="tituloejercicio1">EJERCICIO 1 - MÓVILES 1</string>
+    <string name="textpeso">Ingrese su peso (KG)</string>
+    <string name="texttalla">Ingrese su talla (cm)</string>
+    <string name="textcalcular">CALCULAR IMC</string>
+    <string name="textbtnirhistoria">Ver historia clinica</string>
+    <string name="btnregresar">REGRESAR A IMC</string>
+</resources>
