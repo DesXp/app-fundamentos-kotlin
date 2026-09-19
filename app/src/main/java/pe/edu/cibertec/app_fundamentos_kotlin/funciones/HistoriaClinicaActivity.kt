@@ -13,12 +13,12 @@ import pe.edu.cibertec.app_fundamentos_kotlin.databinding.ActivityHistoriaClinic
 import pe.edu.cibertec.app_fundamentos_kotlin.databinding.ActivityMainBinding
 
 
-private lateinit var binding : ActivityHistoriaClinicaBinding
+
 class HistoriaClinicaActivity : AppCompatActivity(), View.OnClickListener {
+    private lateinit var binding : ActivityHistoriaClinicaBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-
 
         // setContentView(R.layout.activity_historia_clinica)
 
